@@ -25,7 +25,7 @@ const Hero = () => {
           <div className="relative">
             <div className="w-80 h-80 bg-gradient-to-br from-primary-400 to-secondary-400 rounded-full flex items-center justify-center shadow-2xl">
               <img
-                src="/profile.png"
+                src="/ai-portfolio/profile.png"
                 alt="Nelson Jonathan"
                 className="w-72 h-72 rounded-full object-cover border-4 border-white shadow-lg"
               />

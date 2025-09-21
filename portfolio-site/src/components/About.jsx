@@ -31,7 +31,7 @@ const About = () => {
           <div className="relative">
             <div className="bg-gradient-to-br from-primary-100 to-secondary-100 rounded-2xl p-8 shadow-lg">
               <img
-                src="/study-environment.png"
+                src="/ai-portfolio/study-environment.png"
                 alt="Study environment"
                 className="w-full h-64 object-cover rounded-lg shadow-md"
               />
